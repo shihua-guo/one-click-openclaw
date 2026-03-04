@@ -28,7 +28,7 @@ Node: "C:\Users\1\Downloads\OpenClaw\node-v22.22.0-win-x64\node.exe"
 
 
 
-访问浏览器：http://localhost:18789/chat?token=ef9f6edea733b0330b917c2117a0f25417552f8398c23e10
+**访问浏览器**：http://localhost:18789/chat?token=ef9f6edea733b0330b917c2117a0f25417552f8398c23e10
 
 
 

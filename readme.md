@@ -54,5 +54,16 @@ Input OpenClaw command args, e.g. onboard: onboard
 
 
 
+## 5. 安装浏览器插件
+
+浏览器插件位于：`OpenClaw\data\browser\chrome-extension`。
+
+**安装步骤：**
+
+1. 打开 Chrome 浏览器，访问 `chrome://extensions/`。
+2. 开启右上角的 **"开发者模式" (Developer mode)**。
+3. 点击 **"加载已解压的扩展程序" (Load unpacked)**。
+4. 选择目录：`C:\Users\1\Documents\workspace\one-click-openclaw\OpenClaw\data\browser\chrome-extension`。
+
 ---
 *提示：所有运行产生的日志和系统反馈都会直接在终端黑窗口中输出展示。如果发生闪退无法看清报错，建议您在此目录下打开 CMD 或 PowerShell 窗口，将 `.bat` 文件直接拖进去回车运行来进行排障。*

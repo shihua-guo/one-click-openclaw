@@ -6,7 +6,7 @@
 
 **使用方法：** 右键管理员运行 `start_gateway.bat`。
 
-![image-20260305070624985](C:\Users\1\AppData\Roaming\Typora\typora-user-images\image-20260305070624985.png)
+<img width="735" height="324" alt="image" src="https://github.com/user-attachments/assets/7cc5b814-a940-4d9c-9ab6-901c4cc44300" />
 
 等待出现日志即可访问：
 
@@ -23,14 +23,7 @@ Node: "C:\Users\1\Downloads\OpenClaw\node-v22.22.0-win-x64\node.exe"
 23:10:50 [gateway] agent model: openai/qwen-plus
 23:10:50 [gateway] listening on ws://127.0.0.1:18789, ws://[::1]:18789 (PID 35856)
 23:10:50 [gateway] log file: \tmp\openclaw\openclaw-2026-03-05.log
-23:10:50 [browser/server] Browser control listening on http://127.0.0.1:18791/ (auth=token)
-23:10:51 [gateway] update available (latest): v2026.3.2 (current v2026.2.26). Run: openclaw update
-23:10:53 [bonjour] gateway name conflict resolved; newName="DESKTOP-LPOHT43 (OpenClaw) (3)"
-23:10:53 [bonjour] gateway hostname conflict resolved; newHostname="openclaw-(3)"
-23:12:08 [ws] webchat connected conn=6928d3d6-ac0a-459e-8bb8-c7f7d89e6857 remote=::1 client=openclaw-control-ui webchat vdev
-23:12:08 [ws] ⇄ res ✓ chat.history 110ms conn=6928d3d6…6857 id=ad4c7819…d0ba
-23:12:09 [ws] webchat disconnected code=1001 reason=n/a conn=6928d3d6-ac0a-459e-8bb8-c7f7d89e6857
-23:12:09 [ws] webchat connected conn=cd018c1c-1312-48fc-a866-c61e3c0bab75 remote=::1 client=openclaw-control-ui webchat vdev
+
 ```
 
 
